@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Điện thoại"
+    },
+    {
+      "id": "2",
+      "name": "Laptop"
+    },
+    {
+      "id": "3",
+      "name": "Phụ kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro Max",
+      "description": "Điện thoại cao cấp nhất của Apple năm 2023.",
+      "price": 34000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumb-600x600.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S24 Ultra",
+      "description": "Flagship Android với bút S Pen và camera zoom quang học.",
+      "price": 33500000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/307174/samsung-galaxy-s24-ultra-xam-thumb-600x600.jpg",
+      "categoryId": 1
+    },
+    {
+      "id": "3",
+      "name": "Macbook Air M2",
+      "description": "Laptop mỏng nhẹ, hiệu năng cao từ Apple.",
+      "price": 28000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/44/282827/macbook-air-m2-2022-bac-600x600.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "4",
+      "name": "Dell XPS 15",
+      "description": "Laptop Windows mạnh mẽ với màn hình 4K OLED.",
+      "price": 45000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/44/288762/dell-xps-15-9520-i7-71003923-600x600.jpg",
+      "categoryId": 2
+    },
+    {
+      "id": "5",
+      "name": "Tai nghe Sony WH-1000XM5",
+      "description": "Tai nghe chống ồn chủ động hàng đầu.",
+      "price": 8500000,
+      "image": "https://cdn.tgdd.vn/Products/Images/54/278359/tai-nghe-bluetooth-sony-wh-1000xm5-den-600x600.jpg",
+      "categoryId": 3
+    },
+    {
+      "id": "6",
+      "name": "Chuột Logitech MX Master 3S",
+      "description": "Chuột không dây công thái học cho công việc.",
+      "price": 2500000,
+      "image": "https://uscom.com.vn/wp-content/uploads/2024/09/iPhone-16-Pro-Max-Sa-Mac.jpg",
+      "categoryId": "3"
+    },
+    {
+      "id": "7",
+      "name": "Xiaomi 14",
+      "description": "Điện thoại nhỏ gọn, cấu hình mạnh mẽ.",
+      "price": 22990000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/321126/xiaomi-14-green-thumb-600x600.jpg",
+      "categoryId": 1
+    }
+  ]
+}
